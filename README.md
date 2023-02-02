@@ -16,7 +16,7 @@ Build and run your the application:
 **Example HelloWorld!
 ```C#
 cat Program.cs 
-// See https://aka.ms/new-console-template for more information
+// Hello World! code
 Console.WriteLine("Hello, World!");
 ```
 **Output:**
