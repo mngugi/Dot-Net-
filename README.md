@@ -13,7 +13,7 @@ Switch to the project directory:
 Build and run your the application:
 
 `dotnet run`
-**Example HelloWorld!
+**Example HelloWorld!**
 ```C#
 cat Program.cs 
 // Hello World! code
