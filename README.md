@@ -24,4 +24,26 @@ Console.WriteLine("Hello, World!");
 **Output:**
 `Hello, World!`
 
+### Alterntively 
+- Use the standard C# Coding procedure.
+```C#
+using System;
+class Hello
+{
+  static void Main(string[] args)
+  {
+      Console.WriteLine("Hello Hello World");
+  }
+}
+
+```
+### Mono Complete
+
+- Mono is an open-source implementation of the .NET framework and can be installed using the following code.
+  `sudo apt install mono-complete`
+  Compile the program by using the following steps:
+  `mcs filename.cs`
+  and call
+  `mono filename.exe`
+
 ---
