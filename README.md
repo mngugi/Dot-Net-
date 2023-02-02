@@ -13,3 +13,10 @@ Switch to the project directory:
 Build and run your the application:
 
 `dotnet run`
+**Example HelloWorld!
+```C#
+cat Program.cs 
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+```
+---
