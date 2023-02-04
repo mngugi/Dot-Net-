@@ -1,3 +1,5 @@
+### Welcome to the Dot-Net- wiki!
+
 # Dot-Net-
 This Repo is about running .Net on Fedora as well as Dot Net development. 
 Install the .NET 7 Software Development Kit (SDK) using this command:
@@ -37,6 +39,10 @@ class Hello
 }
 
 ```
+This is a C# code that outputs "Hello Hello World" on the console. The code defines a class named "Hello" with a Main method. The Main method uses the Console.WriteLine method to display the string "Hello Hello World".
+
+
+---
 ### Mono Complete
 
 - Mono is an open-source implementation of the .NET framework and can be installed using the following code.
@@ -46,4 +52,6 @@ class Hello
   and call
   `mono filename.exe`
 
+
 ---
+
