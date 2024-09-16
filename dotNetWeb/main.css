@@ -30,7 +30,8 @@ li {
     --bg: var(--green);
     --fontColor: var(--black);
   }
-  .dark-theme {
+
+ .dark-theme {
     --bg: var(--black);
     --fontColor: var(--green);
   }
