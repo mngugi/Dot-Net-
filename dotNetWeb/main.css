@@ -29,10 +29,26 @@ li {
 .light-theme {
     --bg: var(--green);
     --fontColor: var(--black);
+    --btnBg: var(--black);
+    --btnFontColor: var(--white);
   }
 
  .dark-theme {
+    
     --bg: var(--black);
     --fontColor: var(--green);
+    
   }
+
+ .btn {
+
+    position: absolute;
+    top: 20px;left: 250px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: yellow;
+    color: var(--btnColor);
+    background-color: : var(--btnBg);
+ } 
 
