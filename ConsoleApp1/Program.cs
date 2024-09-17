@@ -58,4 +58,4 @@ Console.Write("! You have ");
 Console.Write(messages);
 Console.Write(" messages in your inbox. The temperature is ");
 Console.Write(temperature);
-Console.Write(" celsius.");
+Console.Write("\celsius.\n");
