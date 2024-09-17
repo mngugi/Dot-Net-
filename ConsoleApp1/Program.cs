@@ -7,7 +7,7 @@ Console.WriteLine(12.39816m);
 Console.WriteLine(true);
 Console.WriteLine(false);
 
-Console.WriteLine("------Variables------")
+Console.WriteLine("------Variables------");
 
 string firstName;
 firstName = "Garnacho";
