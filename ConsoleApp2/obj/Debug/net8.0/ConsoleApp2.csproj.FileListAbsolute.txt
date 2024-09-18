@@ -1,0 +1,15 @@
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.deps.json
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.dll
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache
+/home/vector_x86/Documents/GitHub/Dot-Net-/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll
