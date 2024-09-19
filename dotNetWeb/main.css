@@ -1,5 +1,5 @@
 :root { 
-    --green: #7fffd4;
+    --Aquamarine: #7fffd4;
     --white: #ffffff;
     --black: #000000;
 }
@@ -27,7 +27,7 @@ li {
 }
 
 .light-theme {
-    --bg: var(--green);
+    --bg: var();
     --fontColor: var(--black);
     --btnBg: var(--black);
     --btnFontColor: var(--white);
@@ -36,7 +36,7 @@ li {
  .dark-theme {
     
     --bg: var(--black);
-    --fontColor: var(--green);
+    --fontColor: var(--Aquamarine);
     --btnBg: var(--white);
     --btnFontColor: var(--black);
     
