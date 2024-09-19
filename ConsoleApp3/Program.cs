@@ -7,3 +7,6 @@ int version = 11;
 string updateText = "Update to Windows";
 string message_1 = $"{updateText} {version}";
 Console.WriteLine(message_1);
+
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");
