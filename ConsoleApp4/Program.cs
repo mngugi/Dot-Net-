@@ -7,8 +7,8 @@ int sum = 23 + 87;
 int difference = 23 - 87 ;
 int product = 23 * 87 ;
 int quotient = 23 / 87 ;
-decimal decimal_Quotient = 23.0 / 87.0;
-int modulus = 200 % 5;
+decimal decimal_Quotient = 23.0 / 87.0 ;
+int modulus = 200 % 5 ;
 int modu_lus = 7 % 5 ;
 
 
