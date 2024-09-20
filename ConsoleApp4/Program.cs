@@ -2,7 +2,10 @@
 // mixed data types to force implicit typer coversions.
 int firstNum = 23;
 int secondNum = 87;
+string firstName = "Victor";
 
 
 Console.WriteLine(firstNum + secondNum);
+Console.WriteLine(firstName + " sold " + firstNum + " books " + secondNum + " pens.");
+
 
