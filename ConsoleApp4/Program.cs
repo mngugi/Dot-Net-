@@ -9,3 +9,4 @@ Console.WriteLine(firstNum + secondNum);
 Console.WriteLine(firstName + " sold " + firstNum + " books " + secondNum + " pens.");
 
 
+Console.WriteLine("Total number of items sold is " + (firstNum + secondNum)+ ".");
